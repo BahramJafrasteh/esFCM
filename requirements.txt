@@ -1,0 +1,5 @@
+nibabel==4.0.2
+numpy==1.23.5
+scikit-learn==1.1.2
+torch==1.12.1
+scikit-image==0.19.3

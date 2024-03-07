@@ -1,0 +1,5 @@
+The dataset used in this research is comprised of T1-weighted MRI images. It includes:
+- IXI dataset: Available from [Brain Development Index](http://brain-development.org/ixi-dataset)
+- IBSR dataset: Available from [NITRC](https://www.nitrc.org/projects/ibsr)
+- Brainweb dataset: Available from [McGill University](https://brainweb.bic.mni.mcgill.ca/brainweb/)
+- HUPM dataset: Available from [University of Cadiz](https://rodin.uca.es/handle/10498/31306)
